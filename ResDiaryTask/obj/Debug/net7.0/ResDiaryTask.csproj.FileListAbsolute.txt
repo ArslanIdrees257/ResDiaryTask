@@ -1,0 +1,12 @@
+/Users/arslan/Projects/ResDiary/ResDiaryTask/bin/Debug/net7.0/ResDiaryTask.deps.json
+/Users/arslan/Projects/ResDiary/ResDiaryTask/bin/Debug/net7.0/ResDiaryTask.dll
+/Users/arslan/Projects/ResDiary/ResDiaryTask/bin/Debug/net7.0/ResDiaryTask.pdb
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ResDiaryTask.csproj.AssemblyReference.cache
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ResDiaryTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ResDiaryTask.AssemblyInfoInputs.cache
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ResDiaryTask.AssemblyInfo.cs
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ResDiaryTask.csproj.CoreCompileInputs.cache
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ResDiaryTask.dll
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/refint/ResDiaryTask.dll
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ResDiaryTask.pdb
+/Users/arslan/Projects/ResDiary/ResDiaryTask/obj/Debug/net7.0/ref/ResDiaryTask.dll
